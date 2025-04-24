@@ -34,6 +34,6 @@ The idea here is to use it to record ground and object vibrations, as well as na
 
 ***
 
-### Sound exemple
+### Build information
 
-Ice :
+Printed in [PLA-CF](https://eu.store.bambulab.com/fr-fr/collections/pla/products/pla-cf), but work nice with PETG (witch seems more convinent for outside work) Notheless, I didn't had annt humidity trouble with the PLA. The structur is thick enought to protect the sensor and all the joint arehelping to that. But it's not meat to be underwater. For that, I recomend you the nice DIY [tutorial for an hydrophone](https://www.instructables.com/Lets-Build-Some-World-Class-Hydrophones/).
