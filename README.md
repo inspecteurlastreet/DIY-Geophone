@@ -9,11 +9,11 @@ Geophone created by Antoine THOMAS (aka inspecteur la street) & Nathan ERSTEIN (
 
 ### Definition
 
-Un géophone est un capteur sismique qui convertit les vibrations du sol en signal électrique. Il fonctionne grâce à une masse suspendue à l'intérieur d'une bobine ou d'un aimant : lorsque le sol vibre, la différence de mouvement entre la masse et le boîtier génère un courant électrique proportionnel à la vitesse du déplacement du sol.
+A geophone is a seismic sensor that converts ground vibrations into an electrical signal. It works using a mass suspended inside a coil or a magnet: when the ground vibrates, the difference in movement between the mass and the housing generates an electrical current proportional to the velocity of the ground motion.
 
-Les géophones sont utilisés en sismologie pour détecter les tremblements de terre, en géophysique pour l'exploration pétrolière et en ingénierie pour surveiller les vibrations des infrastructures.
+Geophones are used in seismology to detect earthquakes, in geophysics for oil exploration, and in engineering to monitor infrastructure vibrations.
 
-L'idée ici est de l'utiliser pour enregistrer les vibration du sol et des objet, des sons naturels dans le cadre de field recording ou d'experimentation sonor. Contrairement a un micro piezo, le géophone va se focus dans les basses fréquences car moins sensible aux aigus.
+The idea here is to use it to record ground and object vibrations, as well as natural sounds, in the context of field recording or sound experimentation. Unlike a piezo microphone, the geophone focuses on low frequencies because it is less sensitive to high frequencies.
 
 ***
 
