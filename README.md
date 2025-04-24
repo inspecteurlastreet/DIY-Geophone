@@ -1,7 +1,7 @@
 # Geophone
 Open source files for building you own geophone!
 
-Geophone created by Antoine THOMAS (aka inspecteur la street) & Nathan ERSTEIN (aka Neifen)
+Geophone created by Antoine THOMAS (aka [Inspecteur la Street](https://www.instagram.com/inspecteurlastreet/)) & Nathan ERSTEIN (aka [Neifen](https://www.instagram.com/nathan.eh/))
 
 ![IMG_6013 2](https://github.com/user-attachments/assets/b5ce6d84-a8ce-4731-8fdc-f7bce7dd2567)
 
