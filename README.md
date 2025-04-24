@@ -3,6 +3,11 @@ Open source files for building you own geophone!
 
 Geophone created by Antoine THOMAS (aka inspecteur la street) & Nathan ERSTEIN (aka Neifen)
 
+![IMG_6013 2](https://github.com/user-attachments/assets/b5ce6d84-a8ce-4731-8fdc-f7bce7dd2567)
+
+
+
+***
 
 ### Definition
 
@@ -12,6 +17,8 @@ Les géophones sont utilisés en sismologie pour détecter les tremblements de t
 
 L'idée ici est de l'utiliser pour enregistrer les vibration du sol et des objet, des sons naturels dans le cadre de field recording ou d'experimentation sonor. Contrairement a un micro piezo, le géophone va se focus dans les basses fréquences car moins sensible aux aigus.
 
+
+***
 
 
 ### Sourcing
