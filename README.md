@@ -3,7 +3,7 @@ Open source files for building you own geophone!
 
 Geophone created by Antoine THOMAS (aka [Inspecteur la Street](https://www.instagram.com/inspecteurlastreet/)) & Nathan ERSTEIN (aka [Neifen](https://www.instagram.com/nathan.eh/))
 
-Done with FreeCAD 0.21.2 and printed with a bambulab
+Done with FreeCAD 0.21.2 and printed with a bambulab X1C
 
 ![IMG_6013 2](https://github.com/user-attachments/assets/b5ce6d84-a8ce-4731-8fdc-f7bce7dd2567)
 
