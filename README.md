@@ -1,7 +1,7 @@
 # Geophone
 Open source files for building you own geophone!
 
-Geophone created by Antoine THOMAS (aka [Inspecteur la Street](https://www.instagram.com/inspecteurlastreet/)) & Nathan ERSTEIN (aka [Neifen](https://www.instagram.com/nathan.eh/)). Printing test and final done at [66Origin](https://www.instagram.com/sixtysixorigin/) by Thomas.
+Geophone created by [Inspecteur la Street](https://www.instagram.com/inspecteurlastreet/) & [Neifen](https://www.instagram.com/nathan.eh/). Printing test and final done at [66Origin](https://www.instagram.com/sixtysixorigin/) by Thomas.
 
 Done with FreeCAD 0.21.2 and printed with a bambulab X1C
 
