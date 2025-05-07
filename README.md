@@ -29,6 +29,7 @@ The idea here is to use it to record ground and object vibrations, as well as na
 | Cable XRL | ? | Thomann |
 | Cable Glands | PG9 - IP68 | [Amazon](https://www.amazon.fr/-/en/dp/B09XGNLD4B?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1&language=fr_FR) |
 | Flat Head Nut | M6 thread | [Amazon](https://www.amazon.fr/-/en/dp/B0B1TXMZ34?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1&language=fr_FR) |
+| Screw | M6 / L 16 mm | [Thomann](https://www.thomann.fr/adam_hall_5410blk_rack_screw_pack.htm) |
 | Magnets Round Rubber | M6 thread | [Amazon](https://www.amazon.fr/-/en/dp/B0CLZFZX44?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1&language=fr_FR) |
 | Ventouse | M6 thread | [Amazon](https://www.amazon.fr/-/en/627313_1_HuSjAn6Hi/dp/B0DMW68LCQ?crid=16STM5HQW72R2&dib=eyJ2IjoiMSJ9.76IrIQ2dlbbGOn-Sta9WIl1hCBua3o1R0ugKljg49xgoKEtLLKr9zVywbkU5ejqhMToZ736Rj0zklOsVaHV_OzpKwxDWOLGhpZ4XSLTcO1EErJdg22LgCyFRBwvrd2C2-34LNMQVMayOe_laKVIIJoR50yXeg1LGmC4RCwSNVRiQekUw-XL06mlQCMqGTADaebLy32JTlfvNP6BSmX8PdynlVuQBMwZI0hMR0hCYTJSkR69FWXskteOxQFP0xWSvk9hcc-4USMvHRPt98IQ9-guqbrls6Ow7D4DIG8CNOt0.cvg-YzcqHroSM7X0xNB2ShK-qSZ1eW_v0ZXxVEUKfZ8&dib_tag=se&keywords=ventouse+m6&qid=1745505189&sprefix=ventouse+m6%2Caps%2C99&sr=8-7) |
 | Steel Straight Hand Wire | M6 thread | [Amazon](https://www.amazon.fr/-/en/dp/B09LCT2KBY?ref=ppx_yo2ov_dt_b_fed_asin_title) |
