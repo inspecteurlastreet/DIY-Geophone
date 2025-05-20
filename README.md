@@ -40,6 +40,8 @@ The idea here is to use it to record ground and object vibrations, as well as na
 
 ### Build information
 
+![anotation github_00000](https://github.com/user-attachments/assets/dce7fe2b-9848-4121-a9c9-41acc37c643e)
+
 Printed in [PLA-CF](https://eu.store.bambulab.com/fr-fr/collections/pla/products/pla-cf), but work nice with PETG (witch seems more convinent for outside work) Notheless, I didn't had annt humidity trouble with the PLA. The structur is thick enought to protect the sensor and all the joint arehelping to that. But it's not meat to be underwater. For that, I recomend you the nice DIY [tutorial for an hydrophone](https://www.instructables.com/Lets-Build-Some-World-Class-Hydrophones/).
 
 The Flat head nut need to be glued to the printed part.
