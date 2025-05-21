@@ -49,3 +49,5 @@ The flat head nut needs to be glued to the printed part.
 ![soudure](https://github.com/user-attachments/assets/5fb17083-150b-4e44-a2bb-51eb8b0440a6)
 
 The ground connection is not required when soldering the XLR cable to the geophone (but need to be on the XLR head). It's recommended to test the polarity (positive and negative) beforehand, although our tests indicate that the orientation has little to no impact on performance.
+
+If you have any questions, feel free to reach out.
