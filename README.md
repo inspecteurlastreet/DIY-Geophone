@@ -3,7 +3,7 @@ Open source files for building you own geophone!
 
 Geophone created by [Inspecteur la Street](https://www.instagram.com/inspecteurlastreet/) & [Neifen](https://www.instagram.com/nathan.eh/). Printing test and final done at [66Origin](https://www.instagram.com/sixtysixorigin/) by [Thomas Girod](https://www.instagram.com/speedbiscuit/).
 
-Done with FreeCAD 0.21.2 and printed with a bambulab P1S
+Done with FreeCAD 0.21.2 and printed with a bambulab P1S.
 
 ![IMG_6013 2](https://github.com/user-attachments/assets/b5ce6d84-a8ce-4731-8fdc-f7bce7dd2567)
 
